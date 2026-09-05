@@ -34,7 +34,7 @@ The [notebook](https://github.com/jediwright/seam-stack/tree/main/notebook) is t
 
 In parallel with the prototype work, the theoretical framework the prototype demonstrates was written out and subjected to adversarial review. The result is an essay — [Local-First at the Edge](https://github.com/jediwright/seam-stack/blob/main/essay/local-first-at-the-edge.md) — that names seven boundary principles derived from studying where local-first's interior theory runs out.
 
-The short version: local-first got the interior right. The seven ideals that Kleppmann, van Hardenberg, McGranaghan, and Wiggins published in 2019 are a complete theory of what a local-first system should be *inside* — data on your device, offline operation, real-time collaboration, long-term preservation. Every one of those ideals is an interior claim. None of them says what happens at the edge.
+The short version: local-first covered the interior boundary work. The seven ideals that Kleppmann, van Hardenberg, McGranaghan, and Wiggins published in 2019 are a complete theory of what a local-first system should be *inside* — data on your device, offline operation, real-time collaboration, long-term preservation. Every one of those ideals is an interior claim. None of them says what happens at the edge.
 
 The essay argues that this is a structural consequence, not a deficiency: any strong interior discipline generates a boundary shadow. The governed-crossing architecture starts where the interior theory ends.
 
