@@ -8,7 +8,7 @@ This repo is the root of the research program — the place where the intellectu
 
 ## What's here
 
-**`journal/`** — Dispatches on the state of the research program. Not field reports (those live in the [build notebook](https://github.com/jediwright/seam-stack/tree/main/notebook)) and not theory essays (those are in the [seam-stack essay directory](https://github.com/jediwright/seam-stack/tree/main/essay)). The journal is where the full program gets a view from altitude.
+**[`journal/`](https://github.com/jediwright/systems-of-thought/tree/main/journal)** — Dispatches on the state of the research program. Not field reports (those live in the [build notebook](https://github.com/jediwright/seam-stack/tree/main/notebook)) and not theory essays (those are in the [seam-stack essay directory](https://github.com/jediwright/seam-stack/tree/main/essay)). The journal is where the full program gets a view from altitude.
 
 More directories will appear here as workstreams produce material ready for public placement.
 
