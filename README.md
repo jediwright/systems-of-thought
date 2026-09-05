@@ -35,4 +35,36 @@ More directories will appear here as workstreams produce material ready for publ
 
 ---
 
+## Full scope of work (not exhaustive)
+
+**Theoretical frameworks**
+
+- **Resonance Architecture (RA)** — A theory that any structured domain runs on a shared seven-tier organizational grammar (Bind → Totalize), prior to and independent of any framework describing it. The RA is both the theory and the testing program: predictions are pre-registered, mapped against fresh domains, and scored under adversarial discipline.
+- **Tiered Content Framework (TCF)** — A framework for governing content structure across seven tiers (Quarks → Biomes) with cross-cutting dimensions for intelligence, taxonomy, and machine-legibility. Governs how content objects are structured and tagged with epistemic status.
+- **Narrative Content Framework (NCF)** — A derivative of the TCF adapted for the creative domain. Collapses the TCF's three cross-cutting dimensions into a single Constant Layer. NCF development fed back into the TCF, triggering the Quarks amendment.
+- **Grammar of Trust** — An argument that language is the infrastructure through which institutional trust transmits across time. Names the term "infrastructure" in the governing vocabulary.
+
+**Architecture and governance**
+
+- **Seam Stack** — A four-layer architectural pattern (Substrate, Governance, Boundary, Evidence) for governing the moment data crosses from a local-first system into something external. Documented in [`THEORY.md`](THEORY.md).
+- **Governed Schema Evolution Framework (GSEF)** — Governs how data schemas change over time without breaking downstream dependents. Specifies blast-radius classification, temporal-crossing checks, and lineage obligations across all four Seam Stack layers.
+- **Governed PR Framework (GPRF)** — Governance for code changes. Tiers every change by how far a failure could spread and applies scrutiny proportionally, with protected surfaces declared up front. Published at [`jediwright/governed-pr-framework`](https://github.com/jediwright/governed-pr-framework).
+- **Form C / Artifact B** — A multi-principle governance manifesto for boundary-crossing architectures. P10 governs lineage; P11 governs agent authority (agents are governed parties, never authors of record); P12 governs longevity commitments.
+
+**Pattern Commons series** — Reusable, versioned pattern entries for governed data crossings. Published at [`jediwright/local-first-series`](https://github.com/jediwright/local-first-series).
+
+- **PC#00 — The Governed Crossing** — The foundational entry. Defines a governed crossing: a state change at a boundary, with a record readable by a party who wasn't there.
+- **PC#7 — Employment Seam** — The employment relationship as a governed crossing: entry, exit, agent capability grants, and revocation discipline. Prototype at [`jediwright/employment-seam`](https://github.com/jediwright/employment-seam).
+- **PC#8 — Substrate Crossing Seam** — The first crossing pattern built on an authorization-backed substrate (Automerge + Keyhive), with write-before-fire intent records, delayed-release horizons, and TOCTOU integrity controls.
+- **PC#9 — Governed Content Production Crossing** — How content moves from a local authoring environment into a publication surface, with chained crossing records and surface validation.
+
+**Essays and long-form arguments**
+
+- **[Full Personhood: The Governance Model AI Requires and Capitalism Never Built](https://www.systemsofthought.com/full-personhood/)** — The central governance argument: information asymmetry between institutions and individuals is architectural before it is political.
+- **TaR (Time-as-the-Return)** — An economic model arguing that worker time is the primary unit of value being extracted and that yield attribution should reflect that.
+- **AI Governance Window Tracker** — A five-domain signal framework assessing whether the window for binding democratic AI governance is opening or closing.
+- **Cultural Antenna** — A spec for tracking and interpreting cultural signals through a structured, governed framework.
+
+---
+
 *J. Wright / UX Minds, LLC — AI-collaborative research; human authorial responsibility and intellectual direction held by the named author.*
