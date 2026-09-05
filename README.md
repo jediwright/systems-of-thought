@@ -29,7 +29,7 @@ More directories will appear here as workstreams produce material ready for publ
 ## Publication surfaces
 
 - **[systemsofthought.com](https://systemsofthought.com)** — long-form essays (Ghost)
-- **[jediwright.com](https://jediwright.com)** — Practitioner trade work & more
+- **[jediwright.com](https://jediwright.com)** — practitioner trade work & more
 - **[jediwright.leaflet.pub](https://jediwright.leaflet.pub)** — AT Protocol-native practitioner layer
 - **[@jediwright.bsky.social](https://bsky.app/profile/jediwright.bsky.social)** — Bluesky
 
