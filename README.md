@@ -22,7 +22,7 @@ More directories will appear here as workstreams produce material ready for publ
 | [jediwright/local-first-series](https://github.com/jediwright/local-first-series) | Pattern Commons — reusable seam patterns, including PC#7 (employment seam) and PC#8 (substrate-crossing seam) |
 | [jediwright/employment-seam](https://github.com/jediwright/employment-seam) | The employment-seam prototype — local-first document crossing to AT Protocol, built on Automerge + Keyhive |
 | [jediwright/governed-pr-framework](https://github.com/jediwright/governed-pr-framework) | GPRF — a governed pull-request framework for AI-assisted development |
-| [jediwright/local-first-social-network](https://github.com/jediwright/local-first-social-network) | Local-First Social — a local-first social prototype built on AT Protocol |
+| [jediwright/local-first-social-network](https://github.com/jediwright/local-first-social-network) | Local-First Social - a local-first social prototype built on Y.js and IndexedDB, with a stateless WebSocket relay that facilitates peer connection and exits. Seam governance and AT Protocol retrofit in progress. | 
 
 ---
 
