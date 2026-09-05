@@ -8,7 +8,7 @@ There's a moment in any research project where the accumulation of pieces — pr
 
 This is another one of those moments.
 
-The work is running on at least three tracks simultaneously. They're related, but they're not the same argument, and conflating them would misrepresent all three. So I'll describe them separately, then say what I think the combination establishes and what it honestly doesn't.
+The work is running on at least three tracks simultaneously. They're related, but they're not the same argument, and conflating them would misrepresent all three. So I'll describe them separately, then say what I think the combination establishes and what it doesn't.
 
 ---
 
