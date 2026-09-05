@@ -90,7 +90,9 @@ The unswept territories matter for the same reason any honest accounting of prio
 
 The GSEF work and the P13 decision-plane work are the longer-horizon open questions. Schema governance and collective governance at scale are both real problems; both have partial answers here; neither has a complete one.
 
-None of this is a complaint about the state of the work. A program that knows its open questions and is building toward answering them is exactly what research is supposed to look like. The open questions here are specific and answerable. That's the thing worth saying publicly.
+None of this is a complaint about the state of the work. A program that knows its open questions and is building toward answering them is exactly what research is supposed to look like. The open questions here are specific and answerable in one form or another.
+
+More on where all of this is headed, coming soon.
 
 ---
 
