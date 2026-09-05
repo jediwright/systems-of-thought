@@ -6,7 +6,7 @@
 
 There's a moment in any research project where the accumulation of pieces — prototypes, specs, adversarial passes, a theory document, a handful of notebook entries — reaches a mass where it's worth stepping back and asking what it actually adds up to. Not what each piece does individually. What the whole thing is for.
 
-This is that moment.
+This is another one of those moments.
 
 The work is running on at least three tracks simultaneously. They're related, but they're not the same argument, and conflating them would misrepresent all three. So I'll describe them separately, then say what I think the combination establishes and what it honestly doesn't.
 
