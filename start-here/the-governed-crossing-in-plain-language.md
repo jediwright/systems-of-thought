@@ -10,7 +10,7 @@
 
 **Reviewed:** Independently reviewed against the source specification before publication. 
 
-**Full Spec:** For the full, detailed technical speak, [see PC#00](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-00-the-governed-crossing.md)
+**Full Spec:** For the full technical details, [see PC#00](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-00-the-governed-crossing.md)
 
 ---
 
@@ -24,7 +24,7 @@ That last clause is the unusual part, and the reason the rest of its design look
 
 ## The problem
 
-Today, whoever sits in the middle usually keeps everything. Your employment history lives in the employer's system; your contacts in the network's database; your patient file with the hospital's vendor. The parties interact *through* the platform, and the platform accumulates what they produce. When the relationship ends, what you built there tends to stay behind, and if there is later a dispute about what was agreed, the record you can reach is theirs. The same shape shows up beyond employment: a researcher leaving a lab with the data and code stranded; a gig worker assigned and un-assigned by an algorithm; a home health aide whose transitions are rarely documented at all.
+Today, whoever sits in the middle usually keeps everything. Your employment history lives in the employer's system; your contacts in the network's database; your patient file with the hospital's vendor. The parties interact *through* the platform, and the platform accumulates what they produce. When the relationship ends, what you built there tends to stay behind, and if there is later a dispute about what was agreed, the record you can reach is theirs. The same shape shows up beyond employment: a researcher leaving a lab with the data and code stranded; a gig worker assigned and unassigned by an algorithm; a home health aide whose transitions are rarely documented at all.
 
 ## The idea: four things every crossing needs
 
