@@ -8,7 +8,9 @@
 
 **Source of record:** Pattern Commons #0 v0.3, the specification that defines the pattern — every claim here is made there, in full; this page explains; it does not extend.
 
-**Reviewed:** Independently reviewed against the source specification before publication.
+**Reviewed:** Independently reviewed against the source specification before publication. 
+
+**Full Spec:** For the full, detailed technical speak, [see PC#00](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-00-the-governed-crossing.md)
 
 ---
 
