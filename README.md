@@ -19,7 +19,7 @@ More directories will appear here as workstreams produce material ready for publ
 | Repo | What it is |
 |---|---|
 | [jediwright/seam-stack](https://github.com/jediwright/seam-stack) | The Seam Stack architecture: theory, boundary principles, build notebook, governed schema evolution framework, vocabulary |
-| [jediwright/local-first-series](https://github.com/jediwright/local-first-series) | Pattern Commons — reusable seam patterns, including PC#7 (employment seam) and PC#8 (substrate-crossing seam) |
+| [jediwright/local-first-series](https://github.com/jediwright/local-first-series) | Pattern Commons — reusable seam patterns: PC#00 (the governed crossing), PC#7 (employment seam), PC#8 (substrate-crossing seam), PC#9 (governed content production) |
 | [jediwright/employment-seam](https://github.com/jediwright/employment-seam) | The employment-seam prototype — local-first document crossing to AT Protocol, built on Automerge + Keyhive |
 | [jediwright/governed-pr-framework](https://github.com/jediwright/governed-pr-framework) | GPRF — a governed pull-request framework for AI-assisted development |
 | [jediwright/local-first-social-network](https://github.com/jediwright/local-first-social-network) | Local-First Social - a local-first social prototype built on Y.js and IndexedDB, with a stateless WebSocket relay that facilitates peer connection and exits. Seam governance and AT Protocol retrofit in progress. | 
@@ -46,17 +46,16 @@ More directories will appear here as workstreams produce material ready for publ
 
 **Architecture and governance**
 
-- **Seam Stack** — A four-layer architectural pattern (Substrate, Governance, Boundary, Evidence) for governing the moment data crosses from a local-first system into something external. Documented in [`THEORY.md`](THEORY.md).
+- **Seam Stack** — A four-layer architectural pattern (Substrate, Governance, Boundary, Evidence) for governing the moment data crosses from a local-first system into something external. Documented in [`THEORY.md`](https://github.com/jediwright/seam-stack/blob/main/THEORY.md).
 - **Governed Schema Evolution Framework (GSEF)** — Governs how data schemas change over time without breaking downstream dependents. Specifies blast-radius classification, temporal-crossing checks, and lineage obligations across all four Seam Stack layers.
 - **Governed PR Framework (GPRF)** — Governance for code changes. Tiers every change by how far a failure could spread and applies scrutiny proportionally, with protected surfaces declared up front. Published at [`jediwright/governed-pr-framework`](https://github.com/jediwright/governed-pr-framework).
 - **Form C / Artifact B** — A multi-principle governance manifesto for boundary-crossing architectures. P10 governs lineage; P11 governs agent authority (agents are governed parties, never authors of record); P12 governs longevity commitments.
 
-**Pattern Commons series** — Reusable, versioned pattern entries for governed data crossings. Published at [`jediwright/local-first-series`](https://github.com/jediwright/local-first-series).
-
-- **PC#00 — The Governed Crossing** — The foundational entry. Defines a governed crossing: a state change at a boundary, with a record readable by a party who wasn't there.
-- **PC#7 — Employment Seam** — The employment relationship as a governed crossing: entry, exit, agent capability grants, and revocation discipline. Prototype at [`jediwright/employment-seam`](https://github.com/jediwright/employment-seam).
-- **PC#8 — Substrate Crossing Seam** — The first crossing pattern built on an authorization-backed substrate (Automerge + Keyhive), with write-before-fire intent records, delayed-release horizons, and TOCTOU integrity controls.
-- **PC#9 — Governed Content Production Crossing** — How content moves from a local authoring environment into a publication surface, with chained crossing records and surface validation.
+**Pattern Commons series** — Reusable, versioned pattern entries for governed data crossings. Published at [`jediwright/local-first-series`](https://github.com/jediwright/local-first-series/tree/main/pattern-commons).
+- **[PC#00 — The Governed Crossing](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-00-the-governed-crossing.md)** — The foundational entry. Defines a governed crossing: a state change at a boundary, with a record readable by a party who wasn't there. Includes application notes for shared workspaces written by teams of agents and for convergent shared state.
+- **[PC#7 — Employment Seam](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-07-employment-seam.md)** — The employment relationship as a governed crossing: entry, exit, agent capability grants, and revocation discipline. Prototype at [`jediwright/employment-seam`](https://github.com/jediwright/employment-seam).
+- **[PC#8 — Substrate Crossing Seam](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-08-substrate-crossing-seam.md)** — The first crossing pattern built on an authorization-backed substrate (Automerge + Keyhive), with write-before-fire intent records, delayed-release horizons, and TOCTOU integrity controls.
+- **[PC#9 — Governed Content Production Crossing](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-09-governed-content-production-crossing.md)** — How content moves from a local authoring environment into a publication surface, with chained crossing records and surface validation.
 
 **Essays and long-form arguments**
 
