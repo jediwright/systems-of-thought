@@ -102,7 +102,7 @@ Everything added to the specification since its first independent review — inc
 - **The essay** — *Local-First at the Edge*: the principles behind the design, argued rather than specified: [Local-First at the Edge](https://github.com/jediwright/seam-stack/blob/main/essay/local-first-at-the-edge.md)
 - **The notebook** — build reports from the prototypes, in the order they were built: [Notebook](https://github.com/jediwright/seam-stack/tree/main/notebook)
 - **The journal** — periodic accounts of where the whole program stands: [Journal](https://github.com/jediwright/systems-of-thought/tree/main/journal)
-- **The specifications** — start with [Pattern Commons #0](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-00-the-governed-crossing.md), the root pattern, in the local-first-series repository (the public archive of the specifications and build reports); the Seam Stack is documented in: [seam-stack repo](https://github.com/jediwright/seam-stack).
+- **The specifications** — start with [Pattern Commons #00](https://github.com/jediwright/local-first-series/blob/main/pattern-commons/pattern-commons-00-the-governed-crossing.md), the root pattern, in the local-first-series repository (the public archive of the specifications and build reports); the Seam Stack is documented in: [seam-stack repo](https://github.com/jediwright/seam-stack).
 
 ---
 
