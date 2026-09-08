@@ -8,6 +8,8 @@ This repo is the root of the research program — the place where the intellectu
 
 ## What's here
 
+**[`start-here/`](https://github.com/jediwright/systems-of-thought/tree/main/start-here)** — The front door. One page that explains what a governed crossing is and why it matters, in ordinary language, for a reader with no background in local-first software, cryptography, or verifiable credentials. Read this first if you are new to the program; it tells you where the rest lives. Currently: [The Governed Crossing, in Plain Language](https://github.com/jediwright/systems-of-thought/blob/main/start-here/the-governed-crossing-in-plain-language.md).
+
 **[`journal/`](https://github.com/jediwright/systems-of-thought/tree/main/journal)** — Dispatches on the state of the research program. Not field reports (those live in the [build notebook](https://github.com/jediwright/seam-stack/tree/main/notebook)) and not theory essays (those are in the [seam-stack essay directory](https://github.com/jediwright/seam-stack/tree/main/essay)). The journal is where the full program gets a view from altitude.
 
 More directories will appear here as workstreams produce material ready for public placement.
