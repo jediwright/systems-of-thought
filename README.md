@@ -8,9 +8,9 @@ This repo is the root of the research program — the place where the intellectu
 
 ## What's here
 
-**[`start-here/`](https://github.com/jediwright/systems-of-thought/tree/main/start-here)** — The front door. One page that explains what a governed crossing is and why it matters, in ordinary language, for a reader with no background in local-first software, cryptography, or verifiable credentials. Read this first if you are new to the program; it tells you where the rest lives. Currently: [The Governed Crossing, in Plain Language](https://github.com/jediwright/systems-of-thought/blob/main/start-here/the-governed-crossing-in-plain-language.md).
+**[`start-here/`](https://github.com/jediwright/systems-of-thought/tree/main/start-here)** — The front door. Plain-language companions to the governed artifacts, written for a reader with no background in local-first software, cryptography, or verifiable credentials. Read these first if you are new to the program; they tell you where the rest lives. Currently: [The Governed Crossing, in Plain Language](https://github.com/jediwright/systems-of-thought/blob/main/start-here/the-governed-crossing-in-plain-language.md) and [Running a Framework's Trust Rules for the First Time, in Plain Language](https://github.com/jediwright/systems-of-thought/blob/main/start-here/running-a-frameworks-trust-rules-for-the-first-time-plain-language.md).
 
-**[`journal/`](https://github.com/jediwright/systems-of-thought/tree/main/journal)** — Dispatches on the state of the research program. Not field reports (those live in the [build notebook](https://github.com/jediwright/seam-stack/tree/main/notebook)) and not theory essays (those are in the [seam-stack essay directory](https://github.com/jediwright/seam-stack/tree/main/essay)). The journal is where the full program gets a view from altitude.
+**[`journal/`](https://github.com/jediwright/systems-of-thought/tree/main/journal)** — Dispatches on the state of the research program. Not field reports (those live in the [build notebook](https://github.com/jediwright/seam-stack/tree/main/notebook)) and not theory essays (those are in the [seam-stack essay directory](https://github.com/jediwright/seam-stack/tree/main/essay)). The journal is where the full program is viewed from altitude.
 
 More directories will appear here as workstreams produce material ready for public placement.
 
@@ -25,6 +25,7 @@ More directories will appear here as workstreams produce material ready for publ
 | [jediwright/employment-seam](https://github.com/jediwright/employment-seam) | The employment-seam prototype — local-first document crossing to AT Protocol, built on Automerge + Keyhive |
 | [jediwright/governed-pr-framework](https://github.com/jediwright/governed-pr-framework) | GPRF — a governed pull-request framework for AI-assisted development |
 | [jediwright/local-first-social-network](https://github.com/jediwright/local-first-social-network) | Local-First Social - a local-first social prototype built on Y.js and IndexedDB, with a stateless WebSocket relay that facilitates peer connection and exits. Seam governance and AT Protocol retrofit in progress. | 
+| Additional repos | *Others in the wider ecosystem coming online as ready* |  
 
 ---
 
