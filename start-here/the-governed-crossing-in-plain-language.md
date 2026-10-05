@@ -6,7 +6,7 @@
 
 **Author:** J. Wright (Systems of Thought / UX Minds, LLC)
 
-**Source of record:** Pattern Commons #0 v0.3, the specification that defines the pattern — every claim here is made there, in full; this page explains; it does not extend.
+**Source of record:** Pattern Commons #00 v0.3.1, the specification that defines the pattern — every claim here is made there, in full; this page explains; it does not extend.
 
 **Reviewed:** Independently reviewed against the source specification before publication. 
 
